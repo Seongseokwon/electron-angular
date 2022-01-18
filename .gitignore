@@ -46,4 +46,4 @@ Thumbs.db
 
 
 # environments
-src/app/environments
+src/environments/**
